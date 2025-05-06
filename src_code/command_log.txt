@@ -1,0 +1,16 @@
+14
+hop ..
+hop 1
+hop ..
+hop -
+reveal -al
+hop 1
+hop ..
+hop -
+hop ..
+hop -
+hop 1
+hop ..
+reveal 
+sleep 5 &
+sleep 6
